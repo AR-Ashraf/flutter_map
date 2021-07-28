@@ -1,0 +1,62 @@
+name: flutter_map
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json_annotation: ^3.1.1
+  cupertino_icons: ^1.0.0
+  flutter_sliding_up_panel: ^1.1.0+1
+  crypt: ^3.0.1
+  google_fonts:
+
+  # flutter bloc
+  flutter_bloc: ^6.1.1
+  equatable: ^1.2.5
+
+  # map
+  geolocator: ^6.1.13
+  google_maps_flutter: ^1.0.6
+
+  # progressbar
+  flutter_easyloading: ^2.2.2
+
+  # date time format
+  date_format: ^1.0.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.11.1
+  json_serializable: ^3.5.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/
+  fonts:
+    - family: Baskerville Old Face
+      fonts:
+        - asset: fonts/BASKVILL.ttf
+    - family: Bookman Old Style Regular
+      fonts:
+        - asset: fonts/Bookman Old Style Regular.ttf
+    - family: Muli-Regular
+      fonts:
+        - asset: fonts/Muli-Regular.ttf
+    - family: Muli-Light
+      fonts:
+        - asset: fonts/Muli-Light.ttf
+    - family: Roboto-Regular
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+    - family: OpenSans-Regular
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf

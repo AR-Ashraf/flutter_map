@@ -1,0 +1,44 @@
+{
+  "geo": [
+    {
+  "rownum": 1,
+  "id": "gramercy",
+  "name" : "Arisha Pharmacy",
+  "x": 23.79593388636196,
+  "y": 90.38243320424978,
+  "money": 400.0,
+  "address": "322 Moddopara Jame Mosjid Rd, Dhaka-1206",
+  "time": "8.00 am - 5.30 pm"
+  },
+  {
+    "rownum": 2,
+    "id": "bernardin",
+    "name" : "Labaid Pharmacy",
+    "x": 23.74226859682766,
+    "y": 90.38324039075671,
+    "money": 500.0,
+    "address": "5 Mirpur Road, Dhaka",
+    "time": "8.00 am - 5.30 pm"
+  },
+  {
+    "rownum": 3,
+    "id": "bluehill",
+    "name" : "Jannat Pharmacy",
+    "x": 23.802989474212467,
+    "y": 90.36256194657793,
+    "money": 200.0,
+    "address": "Mirpur Road number-6, Dhaka",
+    "time": "8.00 am - 5.30 pm"
+  },
+  {
+    "rownum": 4,
+    "id": "newyork1",
+    "name" : "Iqbal Pharmacy",
+    "x": 23.796845485357927,
+    "y": 90.37330787726587,
+    "money": 700.0,
+    "address": "Kazipara, Begum Rokeya Ave, Dhaka-1216",
+    "time": "8.00 am - 5.30 pm"
+  }
+]
+}
